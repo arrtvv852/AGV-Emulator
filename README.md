@@ -9,8 +9,8 @@ This model should be run on multiple computers(at least 3) to emulator the real 
 Firstly, edit all run.py file for changing the IP location for each computers. The excuter the corresponding run.py file in each computers.
 
 ## Structure
-![image](picture or gif url)
-![image](picture or gif url)
+![image](https://github.com/arrtvv852/AGV-Emulator/blob/master/Structure.png)
+![image](https://github.com/arrtvv852/AGV-Emulator/blob/master/Demonstrate.png)
 
 ## Illustration
-![image](picture or gif url)
+![image](https://github.com/arrtvv852/AGV-Emulator/blob/master/Illutrastion.gif)
