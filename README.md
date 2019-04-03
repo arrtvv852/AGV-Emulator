@@ -13,4 +13,4 @@ Firstly, edit all run.py file for changing the IP location for each computers. T
 ![image](https://github.com/arrtvv852/AGV-Emulator/blob/master/Demonstrate.png)
 
 ## Illustration
-![image](https://github.com/arrtvv852/AGV-Emulator/blob/master/Illutrastion.gif)
+![image](https://github.com/arrtvv852/AGV-Emulator/blob/master/Illustration.gif)
